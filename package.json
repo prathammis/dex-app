@@ -16,5 +16,8 @@
     "url": "https://github.com/prathammis/dex-app/issues"
   },
   "homepage": "https://github.com/prathammis/dex-app#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.4.0"
+  }
 }
